@@ -9,6 +9,8 @@ It uses a vast amount of libraries to ensure smooth interaction between componen
 ![Product-Details](https://user-images.githubusercontent.com/69191757/151945590-486dc0b1-8e3b-4495-9e58-da72cc583484.png)
 
 ## Installation
+> Setup the config.env file in the config folder (locally to your device)
+
 ```bash
     npm/yarn install 
 ```
