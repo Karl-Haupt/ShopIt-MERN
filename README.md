@@ -27,6 +27,3 @@ To run the frontend
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss changes/modification.
 
-### Credits
-*      Ghulam Abbas 
-          * [ShopIt course](https://www.udemy.com/course/mern-stack-ecommerce-site-using-react-redux-nodejs/)
